@@ -1,4 +1,4 @@
-# Qwen 2.5 VL 3B Instruct - JSON Data Extraction
+# LLM fine tune in RTX4060 Qwen 2.5 VL 3B Instruct - JSON Data Extraction
 
 ![Qwen Logo](https://example.com/path/to/qwen-logo.png) <!-- Add actual logo URL if available -->
 
